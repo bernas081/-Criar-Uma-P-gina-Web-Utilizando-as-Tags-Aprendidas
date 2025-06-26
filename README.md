@@ -17,21 +17,6 @@ Conteúdo Temático: Informações relevantes e curiosidades sobre o Bayern de M
 🛠️ Tecnologias Utilizadas
 HTML5: Linguagem de marcação principal para a estrutura da página.
 
-📁 Como Rodar o Projeto
-É muito simples visualizar este projeto!
-
-Clone o Repositório (se estiver no GitHub):
-
-Bash
-
-git clone [LINK_DO_SEU_REPOSITORIO]
-Navegue até a Pasta do Projeto:
-
-Bash
-
-cd [NOME_DA_SUA_PASTA_DO_PROJETO]
-Abra o Arquivo HTML:
-Localize o arquivo index.html (ou o nome que você deu ao seu arquivo HTML) na pasta do projeto e abra-o diretamente no seu navegador de preferência (Google Chrome, Firefox, Edge, etc.). Você pode fazer isso clicando duas vezes no arquivo.
 
 🎯 Desafios e Aprendizados
 Durante o desenvolvimento deste projeto, tive a oportunidade de aprofundar meus conhecimentos em:
